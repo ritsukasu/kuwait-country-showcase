@@ -1,7 +1,3 @@
-/* =============================================
-   KUWAIT COUNTRY PROFILE, External JavaScript
-   ============================================= */
-
 /* Places Data */
 const placesData = [
   {
